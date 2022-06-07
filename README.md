@@ -4,8 +4,8 @@
 - 💠 I’m currently working as Telegram Bot/Community Mod on TABOO Token [https://www.taboo.io] (Full time). 
 - 😶‍🌫️ I'm currently working as Community Manager on Flixpay [https://www.flixpay.io] (Part time) 
 - 💞️ I’m looking to collaborate on crypto/web3 projects. 
-- 📫 How to reach me : 
-- 📧 Email : cryptobangali@gmail.com 
+
+- 📫 How to reach me :  
 - 📑 LinkedIn : https://www.linkedin.com/in/cryptobangali
 - 🐦 Twitter : https://twitter.com/CryptoBangali 
 - 🌴 Linktree : https://linktr.ee/CryptoBangali
