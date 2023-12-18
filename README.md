@@ -7,7 +7,7 @@
 - 📫 How to reach me :
 - 🗞️ Portfolio: https://ShubhajitRoy.bio.link
 - 📑 LinkedIn : https://www.linkedin.com/in/cryptobangali
-- 🐦 Twitter : https://twitter.com/_Bangali_
+- 🐦 Twitter : https://twitter.com/_Bangali_ Follow 
 - 🌴 Company: Crypto Bangali Pvt Ltd : https://www.linkedin.com/company/cryptobangali)
 
 <!---
