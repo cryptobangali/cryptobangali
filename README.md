@@ -8,7 +8,7 @@
 - 🗞️ Portfolio: https://ShubhajitRoy.bio.link
 - 📑 LinkedIn : https://www.linkedin.com/in/cryptobangali
 - 🐦 Twitter : https://twitter.com/Cryptobangali
-- 🌴 Company: Crypto Bangali Pvt Ltd : https://www.linkedin.com/company/cryptobangali)
+- 🌴 Company: Crypto Bangali Pvt Ltd : https://www.linkedin.com/company/cryptobangali
 
 <!---
 cryptobangali/cryptobangali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
